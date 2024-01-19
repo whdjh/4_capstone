@@ -14,7 +14,7 @@
 ## 웹개발팀 소개
 |      이주훈       |       김호탁      |       이예은     |
 | :-------------: | :-------------: | :-------------: |
-|   [@whdjh](https://github.com/whdjh)   |    [@?](깃허브주소)  | [@Yennie](https://github.com/petite-coder) |
+|   [@whdjh](https://github.com/whdjh)   |    [@kimhotac](https://github.com/kimhotac)   | [@Yennie](https://github.com/petite-coder) |
 | 한경대 컴퓨터공학과 sc 4학년 | 한경대 컴퓨터공학과 sc 4학년 | 한경대 컴퓨터공학과 sc 4학년 |
 
 ## 프로젝트 소개
