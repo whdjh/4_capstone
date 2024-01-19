@@ -1,5 +1,5 @@
 # 시설물 관리
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnamu.wiki%2Fw%2F%25ED%2595%259C%25EA%25B2%25BD%25EA%25B5%25AD%25EB%25A6%25BD%25EB%258C%2580%25ED%2595%2599%25EA%25B5%2590&psig=AOvVaw307AzLjin5zG9zRhlcrxXB&ust=1705765705083000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCw3srm6YMDFQAAAAAdAAAAABAH" width="100" height="100"/>
+<img src="https://modooptlnews.cafe24.com/data/tmp/2303/20230302122323_otiazbkr.png" width="100" height="100"/>
 
 # 시설물 관리 Web page
 > **한경대학교 컴퓨터공학과 소프트웨어융합 학부생**
