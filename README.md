@@ -61,7 +61,7 @@ $ npm run dev
 ![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)         
 ![GoogleDirve] (https://www.google.com/intl/ko/drive/download/)
 ![Slack] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCY3YECgeBcLCzIrFLP4gblw&psig=AOvVaw1khKrL2ApdtxD9IQtyl5C8&ust=1716882338709000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPD2vKGrrYYDFQAAAAAdAAAAABAH)
-![Jira] ([https://www.google.com/url?sa=i&url=https%3A%2F%2Fasana.com%2Fko%2Fapps%2Fjiracloud&psig=AOvVaw1ifWZdyIngDUeON98FzjWy&ust=1716882362511000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPC_1K2rrYYDFQAAAAAdAAAAABAD](https://luna1.co/c1de9a.png))
+<img width="327" alt="스크린샷 2024-05-27 오후 4 47 53" src="https://github.com/whdjh/4_capstone/assets/99352927/3b9e1588-7ce6-451f-a4ee-c28fdd311b6f">
 
 ## 다이어그램
 <img src="주소입력" width="300" height="300"/>
