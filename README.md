@@ -1,4 +1,4 @@
-# 시설물 관리
+# 감정인식과 아이트래킹
 <img src="https://modooptlnews.cafe24.com/data/tmp/2303/20230302122323_otiazbkr.png" width="100" height="100"/>
 
 # 감정인식과 아이트래킹을 이용한 학습 보조도구
