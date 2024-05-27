@@ -1,10 +1,10 @@
 # 시설물 관리
 <img src="https://modooptlnews.cafe24.com/data/tmp/2303/20230302122323_otiazbkr.png" width="100" height="100"/>
 
-# 시설물 관리 Web page
+# 감정인식과 아이트래킹을 이용한 학습 보조도구
 > **한경대학교 컴퓨터공학과 소프트웨어융합 학부생**
 
-> **개발기간:2024.03 - 2024.11**
+> **개발기간:2024.04 - 2024.11**
 
 ## 배포 주소
 > **개발 버전** : [주소를 입력) <br>
@@ -18,8 +18,7 @@
 | 한경대 컴퓨터공학과 sc 4학년 | 한경대 컴퓨터공학과 sc 4학년 | 한경대 컴퓨터공학과 sc 4학년 |
 
 ## 프로젝트 소개
-4학년 졸업작품으로 진행한 시설물 관리 프로젝트입니다. 
-
+4학년 졸업작품으로 진행한 감정인식과 아이트래킹을 이용한 학습 보조도구입니다.
 
 ## 시작 가이드
 아래는 예시임
@@ -35,6 +34,7 @@ For building and running the application you need:
 $ git clone https://github.com/Voluntain-SKKU/Voluntain-2nd.git
 $ cd Voluntain-2nd
 ```
+
 #### Backend
 ```
 $ cd strapi-backend
@@ -53,13 +53,15 @@ $ npm run dev
 
 ## 기술스택
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)
 
 ## 개발 환경
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)             
+![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)         
+![GoogleDirve] (https://www.google.com/intl/ko/drive/download/)
+![Slack] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCY3YECgeBcLCzIrFLP4gblw&psig=AOvVaw1khKrL2ApdtxD9IQtyl5C8&ust=1716882338709000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPD2vKGrrYYDFQAAAAAdAAAAABAH)
+![Jira] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fasana.com%2Fko%2Fapps%2Fjiracloud&psig=AOvVaw1ifWZdyIngDUeON98FzjWy&ust=1716882362511000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPC_1K2rrYYDFQAAAAAdAAAAABAD)
 
 ## 다이어그램
 <img src="주소입력" width="300" height="300"/>
